@@ -75,7 +75,7 @@ const ContactSection = forwardRef<HTMLDivElement>((props, ref) => {
             }`}
         >
             <h2 className="text-4xl text-center mb-8">My Contact</h2>
-            <p className="text-center mb-12">Send me a mail. Once the form is submitted, you will be redirected to the home page.</p>
+            <p className="text-center mb-12">Send me a mail..</p>
             <form
                 onSubmit={handleSubmit}
                 className="w-full max-w-md flex flex-col space-y-4"
